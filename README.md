@@ -1,4 +1,5 @@
-# sunoapi
+
+The [Suno API](https://api.box/suno) offered by api.box is an affordable platform for generating AI-powered music and lyrics. It features fast response times, high concurrency support, customizable song creation, and AI-generated lyrics with timestamps. Supporting both V3.5 and V4 versions, the Suno API ensures flexibility and scalability for developers. With stable performance, professional technical support, and detailed documentation, it's the ideal solution for integrating music generation into your projects or building music-focused platforms.
 
 # Core Features of Suno API(Unofficial)
 
@@ -29,7 +30,7 @@
    The system has been optimized for high stability and supports long-term operation. Our professional technical support team is always available. If you encounter any issues during usage, feel free to contact us, and we will resolve them as quickly as possible.
 
 3. **Low Cost with WeChat Pay Support**  
-   Currently, V3.5 costs just $0.14 per request, while V4 is only $0.2—one of the most cost-effective options available (prices may be adjusted in the future). We also support WeChat Pay and offer various subscription plans.
+   One of the most cost-effective options available (prices may be adjusted in the future).
 
 4. **Supports both Suno API V3.5 and V4**  
    Both V3.5 and V4 versions are supported. Choose the one that best fits your needs.
@@ -57,7 +58,7 @@
 
 # Additional Information
 
-- Visit our documentation center for detailed steps: [https://api.box/en-US/suno/docs#/](https://api.box/en-US/suno/docs#/)  
+- Visit our documentation center for detailed steps: [https://api.box/suno/docs#/](https://api.box/suno/docs#/)  
 - If you're new to development, you'll need to choose a suitable tool to send API requests before using Suno API. You'll also need to set up a callback URL to receive the generated audio and cover art. You can use online tools to test this setup. Once these steps are complete, you can begin configuring and using the API to generate audio.
 
 ---
