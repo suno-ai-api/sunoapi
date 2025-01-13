@@ -1,6 +1,8 @@
 
 The [Suno API](https://api.box/suno) offered by api.box is an affordable platform for generating AI-powered music and lyrics. It features fast response times, high concurrency support, customizable song creation, and AI-generated lyrics with timestamps. Supporting both V3.5 and V4 versions, the Suno API ensures flexibility and scalability for developers. With stable performance, professional technical support, and detailed documentation, it's the ideal solution for integrating music generation into your projects or building music-focused platforms.
 
+![](images/1.jpg)
+
 # Core Features of Suno API(Unofficial)
 
 1. **Inspiration Mode**  
