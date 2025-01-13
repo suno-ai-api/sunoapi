@@ -58,10 +58,14 @@ The [Suno API](https://api.box/suno) offered by api.box is an affordable platfor
 
 ---
 
+
+
 # Additional Information
 
 - Visit our documentation center for detailed steps: [https://api.box/suno/docs#/](https://api.box/suno/docs#/)  
 - If you're new to development, you'll need to choose a suitable tool to send API requests before using Suno API. You'll also need to set up a callback URL to receive the generated audio and cover art. You can use online tools to test this setup. Once these steps are complete, you can begin configuring and using the API to generate audio.
+
+![](images/2.jpg)
 
 ---
 
